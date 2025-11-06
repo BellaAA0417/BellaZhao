@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>shuozhaobella - portfolio</title>
+    <title>你的名字 - 个人作品集</title>
     <style>
         /* 这里是CSS样式，可以让你的网页变好看 */
         body {
@@ -50,24 +50,24 @@
 <body>
     <!-- 顶部横幅区域 -->
     <header>
-        <h1>Hi，I am [ShuoZhaoBella]</h1>
-        <p>[I am a Marketing expert]</p>
+        <h1>你好，我是 [你的名字]</h1>
+        <p>[你的职业/身份，例如：全栈开发者 | 平面设计师]</p>
     </header>
 
     <!-- 关于我 -->
     <section class="container" id="about">
-        <h2>About me</h2>
-        <p>I am a marketing expert with 7 years' experiences in advertising. </p>
+        <h2>关于我</h2>
+        <p>在这里写一段简短的自我介绍。可以说明你的技术栈、设计风格、职业热情或者任何你想让访客了解的信息。</p>
     </section>
 
     <!-- 作品集展示 -->
     <section class="container" id="projects">
-        <h2>Projects</h2>
+        <h2>我的项目</h2>
         <div class="projects-grid">
-            <!-- Integrated marketing campaign -->
+            <!-- 项目1 -->
             <div class="project-card">
-                <h3>Häagen-Dazs China Winter campaign</h3>
-                <p>The brief: Rejuvenate brand to be more fashion, premium and young</p>
+                <h3>项目一名称</h3>
+                <p>对项目一的简要描述。它解决了什么问题？用了哪些技术或工具？</p>
                 <a href="#">查看项目</a> | <a href="#">GitHub源码</a>
             </div>
             <!-- 项目2 -->
